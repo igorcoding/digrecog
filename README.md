@@ -1,0 +1,2 @@
+# digrecog
+Digit recognition project
