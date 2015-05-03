@@ -1,3 +1,9 @@
+# Custom
+.idea/
+*.sqlite*
+migrations/
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
